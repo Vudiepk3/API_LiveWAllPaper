@@ -22,8 +22,7 @@
       "wallpaperId": 1,
       "name": "Landscape",
       "type": "video",
-      "videoUrl1": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "videoUrl2": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "imageUrl": ""
     },
     {
@@ -31,8 +30,7 @@
       "wallpaperId": 1,
       "name": "Urban",
       "type": "video",
-      "videoUrl1": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "videoUrl2": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "imageUrl": ""
     },
     {
@@ -40,8 +38,7 @@
       "wallpaperId": 1,
       "name": "Beach",
       "type": "video",
-      "videoUrl1": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "videoUrl2": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "imageUrl": ""
     },
     {
@@ -49,8 +46,7 @@
       "wallpaperId": 2,
       "name": "Face",
       "type": "video",
-      "videoUrl1": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "videoUrl2": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "imageUrl": ""
     },
     {
@@ -58,8 +54,7 @@
       "wallpaperId": 2,
       "name": "Car",
       "type": "video",
-      "videoUrl1": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "videoUrl2": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
       "imageUrl": ""
     },
     {
@@ -153,4 +148,4 @@
       "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     }
   ]
-} 
+}
