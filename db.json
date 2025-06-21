@@ -1,5 +1,5 @@
 {
-  "wallpapers": [
+  "categories": [
     {
       "id": 1,
       "type": "Day & Night Live Wallpaper",
@@ -16,7 +16,7 @@
       "image": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     }
   ],
-  "categories": [
+  "subcategories": [
     {
       "id": 1,
       "wallpaperId": 1,
@@ -81,7 +81,7 @@
       "imageUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     }
   ],
-  "items": [
+  "wallpapers": [
     {
       "id": 1,
       "categoryId": 1,
