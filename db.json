@@ -21,36 +21,36 @@
       "id": 1,
       "wallpaperId": 1,
       "name": "Landscape",
-      "type": "video",
-      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 2,
       "wallpaperId": 1,
       "name": "Urban",
-      "type": "video",
-      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 3,
       "wallpaperId": 1,
       "name": "Beach",
-      "type": "video",
-      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 10,
       "wallpaperId": 2,
       "name": "Face",
-      "type": "video",
-      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 11,
       "wallpaperId": 2,
       "name": "Car",
-      "type": "video",
-      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 16,
@@ -72,57 +72,57 @@
       "id": 1,
       "categoryId": 1,
       "title": "Sunrise Over the Grand Canyon",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 2,
       "categoryId": 1,
       "title": "Golden Sunset on White Cliffs",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 3,
       "categoryId": 2,
       "title": "Morning Traffic at Times Square",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 4,
       "categoryId": 2,
       "title": "Neon Lights of Shibuya Crossing",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 5,
       "categoryId": 3,
       "title": "Sunrise on Copacabana Beach",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 6,
       "categoryId": 10,
       "title": "Animated Evil Smile",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 7,
       "categoryId": 10,
       "title": "Cute Girl Blinking Eyes",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 8,
       "categoryId": 11,
       "title": "Racing Car Speeding at Night",
-      "type": "video",
-      "wallpaperUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+      "type": "image",
+      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 9,
