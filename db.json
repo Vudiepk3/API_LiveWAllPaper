@@ -22,24 +22,21 @@
       "wallpaperId": 1,
       "name": "Landscape",
       "type": "video",
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "imageUrl": ""
+      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     },
     {
       "id": 2,
       "wallpaperId": 1,
       "name": "Urban",
       "type": "video",
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "imageUrl": ""
+      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     },
     {
       "id": 3,
       "wallpaperId": 1,
       "name": "Beach",
       "type": "video",
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "imageUrl": ""
+      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     },
     {
       "id": 10,
@@ -47,33 +44,27 @@
       "name": "Face",
       "type": "video",
       "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "imageUrl": ""
     },
     {
       "id": 11,
       "wallpaperId": 2,
       "name": "Car",
       "type": "video",
-      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-      "imageUrl": ""
+      "subcategoryUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     },
     {
       "id": 16,
       "wallpaperId": 3,
       "name": "Sun",
       "type": "image",
-      "imageUrl1": "",
-      "imageUrl2": "",
-      "imageUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 17,
       "wallpaperId": 3,
       "name": "Night",
       "type": "image",
-      "imageUrl1": "",
-      "imageUrl2": "",
-      "imageUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     }
   ],
   "wallpapers": [
