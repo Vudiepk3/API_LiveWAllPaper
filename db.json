@@ -72,22 +72,22 @@
       "id": 1,
       "categoryId": 1,
       "title": "Sunrise Over the Grand Canyon",
-      "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "type": "video",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
     },
     {
       "id": 2,
       "categoryId": 1,
       "title": "Golden Sunset on White Cliffs",
-      "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "type": "video",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
     },
     {
       "id": 3,
       "categoryId": 2,
       "title": "Morning Traffic at Times Square",
-      "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "type": "video",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
     },
     {
       "id": 4,
