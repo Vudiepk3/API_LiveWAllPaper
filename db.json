@@ -22,35 +22,35 @@
       "wallpaperId": 1,
       "name": "Landscape",
       "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 2,
       "wallpaperId": 1,
       "name": "Urban",
       "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 3,
       "wallpaperId": 1,
       "name": "Beach",
       "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 10,
       "wallpaperId": 2,
       "name": "Face",
       "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 11,
       "wallpaperId": 2,
       "name": "Car",
       "type": "image",
-      "wallpaperUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
+      "subcategoryUrl": "https://fastly.picsum.photos/id/742/800/600.jpg?hmac=wJIPhyDqVpd9HtjNEpI9MXcp1tLF_vvIkZ6ptwCyQX4"
     },
     {
       "id": 16,
